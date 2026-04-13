@@ -156,17 +156,6 @@ fun_fact: I enjoy drawing 🎨, painting, and making well-organized notes.
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aadhya9405&theme=tokyonight&no-frame=true&column=6&margin-w=6"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
